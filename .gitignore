@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+output/
+irrigation_records_raw.csv
+irrigation_records_clean.csv
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.pdf
